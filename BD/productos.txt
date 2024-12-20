@@ -1,0 +1,5 @@
+Barra Olimpica ; 1500; 10
+Banda ; 500 ; 8
+Traje ; 100 ; 5
+ 
+Pesa 10KG; 300.0; 5

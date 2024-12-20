@@ -1,0 +1,7 @@
+cruz; 123-c
+allan; 234_c
+carlos;23
+victor; C/F
+ 
+IPC1;C/F 
+123;123
